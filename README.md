@@ -38,7 +38,6 @@ php artisan serve
 
 ```
 
-Probar la API
 Una vez el servidor esté corriendo, puedes probar los endpoints en:
 
 `http://localhost:8000/api/tasks`
