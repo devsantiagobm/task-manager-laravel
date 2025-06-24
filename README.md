@@ -35,3 +35,14 @@ php artisan migrate
 
 # 6. Levanta el servidor local
 php artisan serve
+
+```
+
+Probar la API
+Una vez el servidor esté corriendo, puedes probar los endpoints en:
+
+`http://localhost:8000/api/tasks`
+`GET|POST|PUT|DELETE`
+
+Para clonar el proyecto frontend y conectarlo con esta API, visita:
+https://github.com/devsantiagobm/task-manager-frontend`
