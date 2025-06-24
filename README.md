@@ -14,9 +14,9 @@
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/devsantiagobm/task-manager-laravel.git
+git clone https://github.com/devsantiagobm/task-manager-laravel.git laravel-api-santiago-barrera
 
-cd repositorio
+cd laravel-api-santiago-barrera
 
 # 2. Instala dependencias
 composer install
